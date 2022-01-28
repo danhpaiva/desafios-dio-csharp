@@ -13,7 +13,7 @@ A saída é composta por todos "Ho" que Papai Noel deve falar separados por um e
 
 <p align="center">
   <a href="#">
-    <img src="[images\desafio001.png](https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio001.png)" width="200" alt="DIO">
+    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio001.png" width="200" alt="DIO">
   </a>
 </p>
 <p align="center">
