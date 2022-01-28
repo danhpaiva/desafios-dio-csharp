@@ -16,7 +16,7 @@ A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, 
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio002.png" width="400" alt="DIO">
+    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio003.png" width="400" alt="DIO">
   </a>
 </p>
 <p align="center">
