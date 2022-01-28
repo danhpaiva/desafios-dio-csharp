@@ -15,7 +15,7 @@ Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procur
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio001.png" width="400" alt="DIO">
+    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio004.png" width="400" alt="DIO">
   </a>
 </p>
 <p align="center">
