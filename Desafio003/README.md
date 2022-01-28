@@ -3,9 +3,11 @@
 <p>
 Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R).<br>
 A fórmula para calcular o volume é:<br>
-~~~
+
+~~~~
 (4/3) * pi * R3
-~~~ 
+~~~~
+
 Considere (atribua) para pi o valor 3.14159.
 
 Dica:<br>Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++),
