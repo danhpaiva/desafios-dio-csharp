@@ -8,3 +8,12 @@ A entrada contém um número inteiro N. Este N será a quantidade de pares de va
 
 <h3>Saída</h3>
 Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio002.png" width="400" alt="DIO">
+  </a>
+</p>
+<p align="center">
+    Exemplo de Saída
+</p>
