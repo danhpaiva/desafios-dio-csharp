@@ -8,5 +8,5 @@ Seu trabalho é ajudar o Papai Noel montando um problema que mostre todos os "Ho
 <h3>Entrada</h3>
 A entrada é composta por um único inteiro N (0 < N ≤ 106) representando quantos "Ho" serão falados por Noel.
 
-<h3>Saída<h3>
+<h3>Saída</h3>
 A saída é composta por todos "Ho" que Papai Noel deve falar separados por um espaço. Após o último "Ho" deve ser apresentado um "!" encerrando o programa.</p>
