@@ -16,7 +16,7 @@ Imprima quantos tipos de jóias distintas Pedro Bento possui.</p>
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio001.png" width="400" alt="DIO">
+    <img src="https://github.com/danhpaiva/desafios-dio-csharp/blob/main/images/desafio005.png" width="400" alt="DIO">
   </a>
 </p>
 <p align="center">
