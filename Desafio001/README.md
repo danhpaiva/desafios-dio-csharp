@@ -13,7 +13,7 @@ A saída é composta por todos "Ho" que Papai Noel deve falar separados por um e
 
 <p align="center">
   <a href="#">
-    <img src="src\desafio001.png" width="200" alt="DIO">
+    <img src="images\desafio001.png" width="200" alt="DIO">
   </a>
 </p>
 <p align="center">
