@@ -10,3 +10,12 @@ A entrada é composta por um único inteiro N (0 < N ≤ 106) representando quan
 
 <h3>Saída</h3>
 A saída é composta por todos "Ho" que Papai Noel deve falar separados por um espaço. Após o último "Ho" deve ser apresentado um "!" encerrando o programa.</p>
+
+<p align="center">
+  <a href="#">
+    <img src="src\desafio001.png" width="200" alt="DIO">
+  </a>
+</p>
+<p align="center">
+    Exemplo de Saída
+</p>
